@@ -1,8 +1,8 @@
-def add(a, b):
+def ad(a, b):
     print(int(a) + int(b))
 
 
-add(input("a "), input("b "))
+ad(input("a "), input("b "))
 
 
 def add_n(a, b):
